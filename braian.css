@@ -1,0 +1,62 @@
+.container {
+    margin: 0 auto;
+    width: 960px;
+}
+body {
+    background: #f0f09d url(images/noise.png);
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+    sans-serif;
+    line-height: 1.6;
+    }
+ .clear {
+        clear: both;
+ }
+ .place {
+        border-color: #f0f09d #f0f09d #f0f09d #f0f09d;
+        border: 1px solid #948d8d;
+        margin-bottom: 20px;
+        padding: 10px;
+        float: left;
+     }
+     .place {
+        background-color: #FFFBE4;
+            border: 2px solid #94c777;
+            float: left;
+            margin: 5px 5px 0 0;
+            padding: 5px;
+         }
+            img{
+                width: 200px;
+                height: 185px;
+            }
+            .place h2 {
+                border-bottom: 1px dashed #7c9b1e;
+                margin: 0;
+                }
+                h1{
+                    color:#7E9F19;
+                    text-decoration: none;
+                }
+        
+                .place img {
+                    border: 1px solid #969696;
+                    float: left;
+                    margin: 10px 10px 0 0;
+                    padding: 2px;
+                    }
+                            .places {
+                                float: left;
+                                width: 700px;
+                            }
+                            .sidenote {
+                                background-color: #FFFBE4;
+                                border: 1px solid #C9BC8F;
+                                float: right;
+                                padding: 5px;
+                                width: 240px;
+                                margin-bottom: 20;
+                                }
+                            
+                    
+
+                   
